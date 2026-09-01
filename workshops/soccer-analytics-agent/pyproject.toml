@@ -31,7 +31,7 @@ dev = [
     "respx>=0.21.1",
     "optimum[onnxruntime]>=2.1.0",
     "onnx>=1.21.0",
-    "transformers>=4.45,<4.58",
+    "transformers>=4.45,<5.17",
     "onnx2oracle>=0.1.1",
 ]
 notebooks = [
