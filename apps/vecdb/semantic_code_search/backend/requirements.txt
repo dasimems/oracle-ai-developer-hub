@@ -3,7 +3,7 @@ uvicorn
 langchain
 sentence-transformers
 torch
-transformers<4.49
+transformers<5.17
 tqdm
 python-dotenv
 oracle-vecdb
